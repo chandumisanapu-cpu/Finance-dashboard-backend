@@ -218,5 +218,3 @@ exception    → global error handling
 ## Author
 
 **Chandu Misanapu**
-an help you:
-👉 deploy this to **Render / Railway** so you can replace `localhost` with a real **live URL** (this will boost your resume a lot 🚀)
